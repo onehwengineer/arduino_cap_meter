@@ -1,6 +1,6 @@
 ## Arduino Capacitance Meter
 
-### arduino_cap_meter_ㅍ3
+### arduino_cap_meter_v3
 - Assign IN_PIN as output, and write to GND before each while loop
 - Selector to display Moisture %
 
